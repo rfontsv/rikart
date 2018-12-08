@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>TV3</title>
+<urlsolve>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/ca/thumb/0/00/Tv3_logo2005.png/120px-Tv3_logo2005.png</thumbnail>
+<fanart></fanart>
+</item>
